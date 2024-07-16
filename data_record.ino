@@ -7,7 +7,7 @@
 */
 
 #include <DHT.h> //importing DHT sensor library
-// constants
+// conistants
 #define DHTPIN 2      // declaring location of Data-Pin on arduino board
 #define DHTTYPE DHT22 // declaring the type of temp/pressure sensor
 DHT dht = DHT(DHTPIN, DHTTYPE);

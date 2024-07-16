@@ -1,6 +1,6 @@
 {
-    "board": "arduino:avr:uno",
-    "port": "COM5",
+    "board": "arduino:renesas_uno:minima",
+    "port": "COM3",
     "programmer": "arduino:avrisp",
-    "sketch": "dht_sensor.ino"
+    "sketch": "data_record.ino"
 }

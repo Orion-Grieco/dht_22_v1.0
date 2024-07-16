@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Orion/OneDrive/Documents/GitHub/dht_22_v1.0/src",
-      "program": "c:/Users/Orion/OneDrive/Documents/GitHub/dht_22_v1.0/src/build/Debug/outDebug",
+      "cwd": "c:/Users/Orion/OneDrive/Documents/GitHub/dht_22_v1.0",
+      "program": "c:/Users/Orion/OneDrive/Documents/GitHub/dht_22_v1.0/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
